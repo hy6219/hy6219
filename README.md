@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=#2ecc71&height=300&section=header&text=Jisoo%20Jeong&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient=2&height=300&section=header&text=Jisoo%20Jeong&fontSize=70)
 
 ### Hi there 👋
 
