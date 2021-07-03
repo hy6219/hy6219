@@ -30,17 +30,13 @@ Here are some ideas to get you started:
 
 #### 📚 Skills 📚
 
-- Language : ![](https://img.shields.io/badge/-java-blue) ![](https://img.shields.io/badge/-Javascript-brightgreen)
-
-- Non-language : ![](https://img.shields.io/badge/-HTML-red) ![](https://img.shields.io/badge/-CSS-yellow)
-
-- RDBMS : ![](https://img.shields.io/badge/-Oracle-orange) 🌻 used thin driver(11g express version)
-
-= WAS & Web Server : ![](https://img.shields.io/badge/-Apache-brightgreen)
-
-- Tools : ![](https://img.shields.io/badge/-JSP-blueviolet) ![](https://img.shields.io/badge/-Servlet-blue)
-
-- Library : ![](https://img.shields.io/badge/-jQuery-blue)
+|--|--|
+|Language|![](https://img.shields.io/badge/-java-blue) ![](https://img.shields.io/badge/-Javascript-brightgreen)|
+|Non-language |![](https://img.shields.io/badge/-HTML-red) ![](https://img.shields.io/badge/-CSS-yellow)|
+|RDBMS | ![](https://img.shields.io/badge/-Oracle-orange) 🌻 used thin driver(11g express version)|
+|WAS & Web Server| ![](https://img.shields.io/badge/-Apache-brightgreen)|
+|Tools |![](https://img.shields.io/badge/-JSP-blueviolet) ![](https://img.shields.io/badge/-Servlet-blue)|
+|Library | ![](https://img.shields.io/badge/-jQuery-blue)|
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hy6219&theme=cobalt)](https://github.com/hy6219/github-readme-stats)
