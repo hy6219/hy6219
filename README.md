@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 
 #### 📚 Skills 📚
 
-|--|--|
+|분류|상세|
+|---|---|
 |Language|![](https://img.shields.io/badge/-java-blue) ![](https://img.shields.io/badge/-Javascript-brightgreen)|
 |Non-language |![](https://img.shields.io/badge/-HTML-red) ![](https://img.shields.io/badge/-CSS-yellow)|
 |RDBMS | ![](https://img.shields.io/badge/-Oracle-orange) 🌻 used thin driver(11g express version)|
