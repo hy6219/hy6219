@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
 📫 How to reach me:   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gs8136@gmail.com)](mailto:gs8136@gmail.com)  gs8136@gmail.com
 
+⚡ My Blog : https://hy6219.github.io/
+
 
 #### 📚 Skills 📚
 
