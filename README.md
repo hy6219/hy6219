@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 
-🌱 I’m currently learning Web Backend based on Java!
+🌱 I’m currently learning JSP & Servlet, Data structure & Algorithm!
 
 😄 I like to learn more proper way for BE logic & more specific things about Java!
 
