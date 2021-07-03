@@ -21,6 +21,3 @@ Here are some ideas to get you started:
 ❤️ I'm interested in both BackEnd and FrontEnd!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hy6219&theme=cobalt)](https://github.com/hy6219/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hy6219&layout=compact&theme=cobalt)](https://github.com/hy6219/github-readme-stats)
