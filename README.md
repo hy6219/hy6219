@@ -27,21 +27,20 @@ Here are some ideas to get you started:
 
 📫 How to reach me:   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gs8136@gmail.com)](mailto:gs8136@gmail.com)  gs8136@gmail.com
 
+
 #### 📚 Skills 📚
-<center>
 
-🧡 Language : ![](https://img.shields.io/badge/-java-blue) ![](https://img.shields.io/badge/-Javascript-brightgreen)
+- Language : ![](https://img.shields.io/badge/-java-blue) ![](https://img.shields.io/badge/-Javascript-brightgreen)
 
-🧡 Non-language : ![](https://img.shields.io/badge/-HTML-red) ![](https://img.shields.io/badge/-CSS-yellow)
+- Non-language : ![](https://img.shields.io/badge/-HTML-red) ![](https://img.shields.io/badge/-CSS-yellow)
 
-🧡 RDBMS : ![](https://img.shields.io/badge/-Oracle-orange) 🌻 used thin driver(11g express version)
+- RDBMS : ![](https://img.shields.io/badge/-Oracle-orange) 🌻 used thin driver(11g express version)
 
-🧡 WAS & Web Server : ![](https://img.shields.io/badge/-Apache-brightgreen)
+= WAS & Web Server : ![](https://img.shields.io/badge/-Apache-brightgreen)
 
-🧡 Tools : ![](https://img.shields.io/badge/-JSP-blueviolet) ![](https://img.shields.io/badge/-Servlet-blue)
+- Tools : ![](https://img.shields.io/badge/-JSP-blueviolet) ![](https://img.shields.io/badge/-Servlet-blue)
 
-🧡 Library : ![](https://img.shields.io/badge/-jQuery-blue)
-</center>
+- Library : ![](https://img.shields.io/badge/-jQuery-blue)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hy6219&theme=cobalt)](https://github.com/hy6219/github-readme-stats)
