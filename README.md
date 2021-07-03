@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning Web Backend based on Java
-😄 I like to learn more proper way for BE logic!
+🌱 I’m currently learning Web Backend based on Java!
+
+😄 I like to learn more proper way for BE logic & more specific things about Java!
+
 ❤️ I'm interested in both BackEnd and FrontEnd!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hy6219&theme=cobalt)](https://github.com/hy6219/github-readme-stats)
