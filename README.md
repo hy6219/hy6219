@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hy6219&layout=compact)](https://github.com/hy6219/github-readme-stats)
+🌱 I’m currently learning Web Backend based on Java
+😄 I like to learn more proper way for BE logic!
+❤️ I'm interested in both BackEnd and FrontEnd!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hy6219&theme=radical)](https://github.com/hy6219/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hy6219&layout=compact&theme=radical)](https://github.com/hy6219/github-readme-stats)
