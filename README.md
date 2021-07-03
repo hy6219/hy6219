@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 
 📚 Skills 📚
 
-- Language : https://img.shields.io/badge/-java-blue %20 https://img.shields.io/badge/-Javascript-brightgreen
+- Language : https://img.shields.io/badge/-java-blue  https://img.shields.io/badge/-Javascript-brightgreen
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hy6219&theme=cobalt)](https://github.com/hy6219/github-readme-stats)
