@@ -21,3 +21,4 @@
 |Library | ![](https://img.shields.io/badge/-jQuery-blue)| 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hy6219&theme=cobalt&animation=fadeIn)](https://github.com/hy6219/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hy6219&layout=compact&theme=cobalt&animation=fadeIn)](https://github.com/hy6219/github-readme-stats)
