@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-🌱 I’m currently learning JSP & Servlet, Data structure & Algorithm!
+🌱 I’m currently learning Spring Framework, Data structure & Algorithm!
 
 📫 How to reach me:   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gs8136@gmail.com)](mailto:gs8136@gmail.com)  gs8136@gmail.com
 
