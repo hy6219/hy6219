@@ -2,7 +2,11 @@
 
 ### Hi there 👋
 
+<<<<<<< HEAD
 🌱 I’m currently learning Spring&Spring Boot&JPA, Data structure & Algorithm!
+=======
+🌱 I’m currently learning Spring Framework, Data structure & Algorithm!
+>>>>>>> 7041a0f099da376e087f58d9d8f710e3d3ea675a
 
 📫 How to reach me:   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gs8136@gmail.com)](mailto:gs8136@gmail.com)  gs8136@gmail.com
 
@@ -23,4 +27,5 @@
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hy6219&theme=cobalt&animation=fadeIn)](https://github.com/hy6219/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hy6219&theme=cobalt&animation=fadeIn)](https://github.com/hy6219/github-readme-stats)&nbsp;&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hy6219&layout=compact&theme=cobalt&animation=fadeIn)](https://github.com/hy6219/github-readme-stats)
