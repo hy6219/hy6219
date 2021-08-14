@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=1e90ff&fontColor=ffffff&height=300&section=header&text=Jisoo%20Jeong&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&fontColor=ffffff&height=300&section=header&text=Jisoo%20Jeong&fontSize=70&animation=twinkling)
 
 ### Hi there 👋
 
